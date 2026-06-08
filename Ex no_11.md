@@ -7,7 +7,7 @@ To write a C Program to convert a given decimal value to binary using function w
 1. Start. 
 2. Declare a integer variable 
 3. Define a function named dectobin. 
-4. Return the integer. 
+4. Return the integer.
 5. Read the value using scanf. 
 6. Convert decimal to binary value. 
 7. Print the dectobin 
