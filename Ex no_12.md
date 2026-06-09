@@ -8,7 +8,7 @@ To write a C program to check whether the given number is prime or not using fun
 2. Declare the variable i. 
 3. Read the value given using scanf. 
 4. Check whether the given number is prime or not using if-else statement condition. 
-5. If true,print ("%d is a prime number.",i). 
+5. If true,print ("%d is a prime number.",i).  
 6. If false, print ("%d is not a prime number.",i). 
 7. End.
    
